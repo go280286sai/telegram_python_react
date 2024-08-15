@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "define": "readonly",
+    "self": "readonly",
+    "globalThis": "readonly",
+    "Rect": "readonly",
+    "ButtonView": "readonly",
+    "checkIcon": "readonly",
+    "View": "readonly",
+    "FocusTracker": "readonly",
+    "KeystrokeHandler": "readonly"
+  }
+}
